@@ -1,6 +1,7 @@
 class Student < User
   
   def initialize
-    @knowledge << []
+    puts nil
+  end
 
 end
